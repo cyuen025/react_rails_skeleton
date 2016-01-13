@@ -50,4 +50,6 @@ end
 # heroku
 gem 'rails_12factor', group: :production
 
+gem 'foundation-rails'
+
 ruby '2.2.1'
